@@ -1,0 +1,81 @@
+Este código HTML contém as seguintes classes:
+
+container-xxl: É uma classe personalizada que define uma largura máxima para o elemento contêiner, permitindo que ele ocupe toda a largura disponível em telas extragrandes.
+
+bg-white: Define o fundo do elemento com a cor branca.
+
+nav-bar: Define a barra de navegação.
+
+bg-transparent: Define o fundo do elemento como transparente.
+
+navbar: Define a barra de navegação com estilos específicos do Bootstrap.
+
+navbar-expand-lg: Define que a barra de navegação será expandida em telas grandes.
+
+navbar-light: Define a barra de navegação com um esquema de cores leve.
+
+py-0, px-4: Define o preenchimento superior e lateral da barra de navegação.
+
+navbar-brand: Define o logotipo ou o nome da marca na barra de navegação.
+
+icon: Define um ícone na barra de navegação.
+
+img-fluid: Define uma imagem responsiva que se ajusta ao tamanho do contêiner.
+
+text-primary: Define o texto com a cor primária.
+
+collapse: Define o comportamento de colapso para o menu da barra de navegação em telas pequenas.
+
+navbar-nav: Define a lista de itens de navegação na barra de navegação.
+
+nav-item: Define um item de navegação na barra de navegação.
+
+active: Define o estado ativo de um item de navegação.
+
+dropdown: Define um menu suspenso na barra de navegação.
+
+dropdown-toggle: Define o elemento que dispara a exibição do menu suspenso.
+
+dropdown-menu: Define o menu suspenso.
+
+rounded-0: Define as bordas do elemento como retas.
+
+mb-5: Define uma margem inferior de tamanho 5.
+
+display-5: Define um estilo de exibição para o texto.
+
+animated: Define uma animação no elemento.
+
+fadeIn: Define uma animação de desvanecimento no elemento.
+
+pe-0: Define o preenchimento à direita do elemento como zero.
+
+owl-carousel: Define um carousel (carrossel) usando a biblioteca Owl Carousel.
+
+owl-carousel-item: Define um item dentro do carousel.
+
+bg-primary: Define o fundo do elemento com a cor primária.
+
+wow: Define uma animação de rolagem ativada por interações do usuário.
+
+fadeInUp: Define uma animação de desvanecimento para cima no elemento.
+
+mb-2: Define uma margem inferior de tamanho 2.
+
+py-3, py-5, px-5: Define o preenchimento vertical e/ou horizontal do elemento.
+
+col-lg-3, col-md-4, col-sm-6: Define a largura do elemento em diferentes tamanhos de tela.
+
+cat-item: Define um item de categoria.
+
+text-center: Define o alinhamento do texto no centro.
+
+rounded: Define as bordas do elemento como arredondadas.
+
+founded: Define o estilo do conteúdo do item de categoria.
+
+text-primary: Define o texto com a cor primária.
+
+mb-3: Define uma margem inferior de tamanho 3.
+
+about-img: Define uma imagem usada no elemento "About Start
